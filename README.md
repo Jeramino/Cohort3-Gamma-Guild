@@ -51,20 +51,29 @@ What to do on Monday:
 How to submit for Week 1:
 1. Fork this repository to your GitHub account
 2. Create a GitHub repo titled "My Web3 Journey" for your personal learning journey
-3. Write your Web3 story in the README.md of your personal repo
-4. Create a new branch for your submission: git checkout -b week-1-assignment
-5. Add your work inside the submissions folder: submissions/week-1/your-name/
-6. In your submission folder, include a link to your "My Web3 Journey" repo
-7. Commit and push your changes: git add . then git commit -m "chore: submit week 1 assignment" then git push origin week-1-assignment
-8. Create a Pull Request to the main repository with your name in the PR title
+3. Complete all three day assignments:
+   - Day 1 Monday: Create your-name-onboarding.md
+   - Day 2 Wednesday: Create your-name-blockchain-intro.md
+   - Day 3 Friday: Create your-name-github-setup.md
+4. Submit each assignment by the deadline specified by your tutor
+5. Create a new branch for your submission: git checkout -b week-1-assignment
+6. Add your work inside the submissions folder with day folders:
+   submissions/week-1/your-name/day-1/your-name-onboarding.md
+   submissions/week-1/your-name/day-2/your-name-blockchain-intro.md
+   submissions/week-1/your-name/day-3/your-name-github-setup.md
+7. In your day-3 assignment file, include a link to your "My Web3 Journey" repo
+8. Commit and push your changes: git add . then git commit -m "chore: submit week 1 assignment" then git push origin week-1-assignment
+9. Create a Pull Request to the main repository with your name in the PR title
 
-Important: Replace "your-name" with your actual name in the folder path. For example: submissions/week-1/john-doe/
+Important: Replace "your-name" with your actual name in all file names and folder paths. For example: submissions/week-1/john-doe/day-1/john-doe-onboarding.md
+
+Deadline: Submit each assignment by the deadline specified by your tutor. Assignments given on Monday must be submitted by the tutor deadline.
 
 Wednesday: Intro to Web3: Blockchain and Internet Evolution from Bitcoin to Ethereum to Creative Internet
 
 Friday: GitHub for Creatives Part 1: Getting Started
 
-Deliverable: Upload "My Web3 Story" in README.md and submit repo link by end of Week 1
+Deliverable: Submit all three day assignments by the deadlines specified by your tutor. Each assignment file should be named with your name plus the assignment name.
 
 ### Week 2: Blockchain Engine, Smart Contracts and Governance
 
@@ -117,9 +126,11 @@ Eviction Checkpoint: You complete all required deliverables and demonstrate acti
 - Document your work with notes, screenshots, or reflections
 - Submit your work via Pull Request to this repository
 - Each PR includes:
-  - Your folder under /submissions/your-name/week-X/
+  - Your folder under /submissions/your-name/week-X/ with day-1, day-2, day-3 folders for Week 1
+  - Assignment files named with your name plus assignment name
   - A summary of what you learned
   - Supporting files: notes, screenshots, reflections, or code
+- Submit assignments by the deadline specified by your tutor
 - Post reflections on social media at least 1 per week from Week 2 onwards
 
 ## Community Structure
