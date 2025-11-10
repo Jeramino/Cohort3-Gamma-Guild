@@ -3238,7 +3238,7 @@ Physical Ownership (e.g., a House, a Gold Bar)
 Digital/Token Ownership (e.g., a RealToken, a VET-tracked item)
 Ownership Verification
 Relies on paper documents (deeds, receipts), central registries (DMV, land registry). Can be slow and faked.
-Publicly verifiable on a blockchain. Instantly auditable by anyone. The token is the proof.
+Publicly verifiable on a blockchain. Instantly auditable by anyone. The token is the proof
 Transfer Speed & Cost
 Slow and expensive. Requires lawyers, notaries, brokers, and trust. Can take days, weeks, or months.
 Fast and cheap (on L2s). Can be transferred globally in seconds for a small network fee.
